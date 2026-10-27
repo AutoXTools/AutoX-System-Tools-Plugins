@@ -15,17 +15,5 @@
       "script_url": "plugins/autox_disclaimer.sh",
       "target": "/jci/gui/apps/system/js/systemApp.js"
     }
-    {
-      "id": "touchscreen",
-      "title": "Touchscreen In Motion",
-      "subtitle": "Unlock touch display while driving",
-      "author": "Author1",
-      "category": "tweak",
-      "version": "0.10",
-      "size": "4.2 KB",
-      "min_cmu_fw": "74.00.324",
-      "script_url": "plugins/autox_touchscreen.sh",
-      "target": "/jci/gui/apps/system/js/systemApp.js"
-    }
   ]
 }
