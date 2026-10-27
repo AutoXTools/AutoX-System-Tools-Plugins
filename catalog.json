@@ -14,6 +14,18 @@
       "min_cmu_fw": "74.00.324",
       "script_url": "plugins/autox_disclaimer.sh",
       "target": "/jci/gui/apps/system/js/systemApp.js"
+    },
+    {
+      "id": "touchscreen",
+      "title": "Touchscreen In Motion",
+      "subtitle": "Unlock Touch Screen Display",
+      "author": "AutoX",
+      "category": "tweak",
+      "version": "0.20",
+      "size": "4.8 KB",
+      "min_cmu_fw": "74.00.324",
+      "script_url": "plugins/autox_touchscreen.sh",
+      "target": "/jci/gui/apps/system/js/systemApp.js"
     }
   ]
 }
