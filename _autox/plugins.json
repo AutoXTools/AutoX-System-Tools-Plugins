@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    {
+      "id": "autox_ssh",
+      "title": "AutoX SSH Server Service",
+      "subtitle": "Port 36000 root shell (Easy Toggle)",
+      "author": "AutoX Developer Network",
+      "category": "system",
+      "order": 90,
+      "version": "0.11-pre",
+      "status": "TESTING",
+      "show_in_gui": true
+    }
+  ]
+}
