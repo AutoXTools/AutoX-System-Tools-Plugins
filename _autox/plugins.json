@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    {
+      "id": "ssh",
+      "title": "SSH Remote Access",
+      "subtitle": "Port 36000 root shell (Easy Toggle)",
+      "author": "AutoX Developer Network",
+      "category": "tweak",
+      "order": 90,
+      "version": "0.12",
+      "status": "TESTING",
+      "show_in_gui": true
+    }
+  ]
+}
