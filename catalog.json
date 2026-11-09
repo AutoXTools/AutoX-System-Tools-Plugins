@@ -1,16 +1,16 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1794235469,
+  "updated_epoch": 1794254202,
   "packages": [
     {
       "id": "ssh",
-      "title": "AutoX SSH Server Service",
+      "title": "SSH Remote Access",
       "subtitle": "Port 36000 root shell (Easy Toggle)",
       "author": "AutoX Developer Network",
-      "category": "system",
+      "category": "tweak",
       "version": "0.12",
-      "size": "0 B",
+      "size": "20.2 KB",
       "min_cmu_fw": "74.00.324",
       "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_ssh.zip",
       "target": "autox_ssh.sh",
