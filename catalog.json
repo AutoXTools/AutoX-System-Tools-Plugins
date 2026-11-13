@@ -1,19 +1,19 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1794597350,
+  "updated_epoch": 1794597529,
   "packages": [
     {
-      "id": "sample",
-      "title": "The plugin title here",
+      "id": "disclaimer",
+      "title": "Remove Disclaimer",
       "subtitle": "Sample",
       "author": "Name of the author here",
       "category": "tweak",
       "version": "v0.11",
-      "size": "9.0 KB",
+      "size": "9.6 KB",
       "min_cmu_fw": "74.00.324",
-      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_sample.zip",
-      "target": "autox_sample.sh",
+      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_disclaimer.zip",
+      "target": "autox_disclaimer.sh",
       "status": "AVAILABLE"
     }
   ]
