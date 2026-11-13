@@ -1,7 +1,7 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1794508780,
+  "updated_epoch": 1794592509,
   "packages": [
     {
       "id": "sample",
@@ -10,7 +10,7 @@
       "author": "Name of the author here",
       "category": "tweak",
       "version": "v0.11",
-      "size": "8.9 KB",
+      "size": "9.0 KB",
       "min_cmu_fw": "74.00.324",
       "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_sample.zip",
       "target": "autox_sample.sh",
