@@ -1,20 +1,7 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795283772,
-  "packages": [
-    {
-      "id": "disclaimer",
-      "title": "Remove Disclaimer",
-      "subtitle": "Improved system bootup experience",
-      "author": "Autox",
-      "category": "tweak",
-      "version": "v0.13",
-      "size": "14.9 KB",
-      "min_cmu_fw": "74.00.324",
-      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_disclaimer.zip",
-      "target": "autox_disclaimer.sh",
-      "status": "AVAILABLE"
-    }
-  ]
+  "updated_epoch": 1795390468,
+  "packages": [],
+  "updated_at": "2026-11-22T23:34:28.249Z"
 }
