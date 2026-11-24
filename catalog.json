@@ -1,19 +1,19 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795558748,
+  "updated_epoch": 1795558864,
   "packages": [
     {
-      "id": "stitcher",
-      "title": "Remove Stitcher Service",
+      "id": "aha",
+      "title": "Disable Aha Service",
       "subtitle": "Improved system bootup experience",
-      "author": "AutoX",
+      "author": "AutoX Developer Network",
       "category": "tweak",
       "version": "0.11",
-      "size": "12.2 KB",
+      "size": "16.9 KB",
       "min_cmu_fw": "74.00.324",
-      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_stitcher.zip",
-      "target": "autox_stitcher.sh",
+      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_aha.zip",
+      "target": "autox_aha.sh",
       "status": "AVAILABLE"
     }
   ]
