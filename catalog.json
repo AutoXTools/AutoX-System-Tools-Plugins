@@ -1,7 +1,20 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795443947,
-  "packages": [],
-  "updated_at": "2026-11-23T14:25:47.447Z"
+  "updated_epoch": 1795528319,
+  "packages": [
+    {
+      "id": "wifi",
+      "title": "Wi-Fi Service",
+      "subtitle": "Enable/disable CMU Wi-Fi adapter",
+      "author": "AutoX Developer Network",
+      "category": "tweak",
+      "version": "0.11",
+      "size": "33.7 KB",
+      "min_cmu_fw": "74.00.324",
+      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_wifi.zip",
+      "target": "autox_wifi.sh",
+      "status": "AVAILABLE"
+    }
+  ]
 }
