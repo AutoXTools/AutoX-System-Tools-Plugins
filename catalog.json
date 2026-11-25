@@ -1,7 +1,7 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795618746,
+  "updated_epoch": 1795619804,
   "packages": [
     {
       "id": "wifi",
@@ -15,20 +15,7 @@
       "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_wifi.zip",
       "target": "autox_wifi.sh",
       "status": "AVAILABLE"
-    },
-    {
-      "id": "stitcher",
-      "title": "Remove Stitcher Service",
-      "subtitle": "Improved system bootup experience",
-      "author": "AutoX",
-      "category": "tweak",
-      "version": "0.11",
-      "size": "12.2 KB",
-      "min_cmu_fw": "74.00.324",
-      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_stitcher.zip",
-      "target": "autox_stitcher.sh",
-      "status": "AVAILABLE"
     }
   ],
-  "updated_at": "2026-11-25T14:59:06.081Z"
+  "updated_at": "2026-11-25T15:16:44.519Z"
 }
