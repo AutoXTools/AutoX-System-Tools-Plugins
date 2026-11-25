@@ -1,8 +1,34 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795558864,
+  "updated_epoch": 1795617323,
   "packages": [
+    {
+      "id": "wifi",
+      "title": "Wi-Fi Service",
+      "subtitle": "Enable/disable CMU Wi-Fi adapter",
+      "author": "AutoX Developer Network",
+      "category": "tweak",
+      "version": "0.13",
+      "size": "46.2 KB",
+      "min_cmu_fw": "74.00.324",
+      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_wifi.zip",
+      "target": "autox_wifi.sh",
+      "status": "AVAILABLE"
+    },
+    {
+      "id": "stitcher",
+      "title": "Remove Stitcher Service",
+      "subtitle": "Improved system bootup experience",
+      "author": "AutoX",
+      "category": "tweak",
+      "version": "0.11",
+      "size": "12.2 KB",
+      "min_cmu_fw": "74.00.324",
+      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_stitcher.zip",
+      "target": "autox_stitcher.sh",
+      "status": "AVAILABLE"
+    },
     {
       "id": "aha",
       "title": "Disable Aha Service",
