@@ -1,8 +1,8 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Release-Branch",
-  "updated_at": "2026-11-26T17:04:38.270Z",
-  "updated_epoch": 1795712678,
+  "updated_at": "2026-11-26T17:05:20.390Z",
+  "updated_epoch": 1795712720,
   "packages": [
     {
       "id": "ssh",
@@ -41,15 +41,22 @@
       "subtitle": "Improved system bootup experience",
       "author": "Autox",
       "category": "tweak",
-      "version": "0.13",
-      "size": "15.0 KB",
+      "version": "0.14",
+      "size": "15.1 KB",
       "min_cmu_fw": "74.00.324",
       "script_url": "plugins/autox_disclaimer.sh",
       "target": "/tmp/mnt/data_persist/autox/plugins/autox_disclaimer.sh",
       "status": "AVAILABLE",
       "download_path": "autox_disclaimer.zip",
-      "sha256": "a06d8f670965def910a0f0c698368df34a6122feeaba57a0010e921586d4a842",
+      "sha256": "dc5413e693e8e7e36452ae536e5d020b52c34c54bcef46e4c1f869349bb1eb5c",
       "versions": [
+        {
+          "version": "0.14",
+          "path": "archive/autox_disclaimer/autox_disclaimer_v0.14.zip",
+          "sha256": "dc5413e693e8e7e36452ae536e5d020b52c34c54bcef46e4c1f869349bb1eb5c",
+          "released_at": "2026-11-26T17:05:20.390Z",
+          "notes": ""
+        },
         {
           "version": "0.13",
           "path": "archive/autox_disclaimer/autox_disclaimer_v0.13.zip",
