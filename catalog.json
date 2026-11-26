@@ -1,24 +1,31 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Release-Branch",
-  "updated_at": "2026-11-23T14:25:47.447Z",
-  "updated_epoch": 1795443947,
+  "updated_at": "2026-11-26T17:04:38.270Z",
+  "updated_epoch": 1795712678,
   "packages": [
     {
       "id": "ssh",
-      "title": "SSH Remote Access",
-      "subtitle": "Port 36000 root shell (Easy Toggle)",
-      "author": "AutoX Developer Network",
+      "title": "Enable SSH Service",
+      "subtitle": "Open port 36000 for access",
+      "author": "AutoX",
       "category": "tweak",
-      "version": "0.13",
-      "size": "25.1 KB",
+      "version": "0.14",
+      "size": "23.8 KB",
       "min_cmu_fw": "74.00.324",
       "script_url": "plugins/autox_ssh.sh",
       "target": "/tmp/mnt/data_persist/autox/plugins/autox_ssh.sh",
       "status": "AVAILABLE",
       "download_path": "autox_ssh.zip",
-      "sha256": "d25f30c94e4db9b8d0f35b863705b09e4e9a115d0b40a404c949f21622640fc9",
+      "sha256": "89e2da59cd73e7f52ffff43bcfdba268fbbb01fea9a4b8b50f306ded2b3b28f2",
       "versions": [
+        {
+          "version": "0.14",
+          "path": "archive/autox_ssh/autox_ssh_v0.14.zip",
+          "sha256": "89e2da59cd73e7f52ffff43bcfdba268fbbb01fea9a4b8b50f306ded2b3b28f2",
+          "released_at": "2026-11-26T17:04:38.270Z",
+          "notes": ""
+        },
         {
           "version": "0.13",
           "path": "archive/autox_ssh/autox_ssh_v0.13.zip",
