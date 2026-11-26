@@ -1,7 +1,7 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795714279,
+  "updated_epoch": 1795714748,
   "packages": [
     {
       "id": "aha",
@@ -54,20 +54,7 @@
       "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_pandora.zip",
       "target": "autox_pandora.sh",
       "status": "AVAILABLE"
-    },
-    {
-      "id": "wifi",
-      "title": "Enable Wi-Fi Service",
-      "subtitle": "Quick press enable / disable, hold to configure",
-      "author": "AutoX",
-      "category": "core",
-      "version": "0.14",
-      "size": "69.1 KB",
-      "min_cmu_fw": "74.00.324",
-      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_wifi.zip",
-      "target": "autox_wifi.sh",
-      "status": "AVAILABLE"
     }
   ],
-  "updated_at": "2026-11-26T17:30:47.641Z"
+  "updated_at": "2026-11-26T17:39:08.294Z"
 }
