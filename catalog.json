@@ -1,8 +1,8 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Release-Branch",
-  "updated_at": "2026-11-26T17:05:20.390Z",
-  "updated_epoch": 1795712720,
+  "updated_at": "2026-11-26T17:39:08.294Z",
+  "updated_epoch": 1795714748,
   "packages": [
     {
       "id": "ssh",
@@ -69,6 +69,30 @@
           "path": "archive/autox_disclaimer/autox_disclaimer_v0.12.zip",
           "sha256": "7a75445d65402ea3d04f5fa12f634920322b0786905a44490788998cb5d5e576",
           "released_at": "2026-11-18T20:02:19.546Z",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "wifi",
+      "title": "Enable Wi-Fi Service",
+      "subtitle": "Quick press enable / disable, hold to configure",
+      "author": "AutoX",
+      "category": "core",
+      "version": "0.14",
+      "size": "69.1 KB",
+      "min_cmu_fw": "74.00.324",
+      "script_url": "plugins/autox_wifi.sh",
+      "target": "/tmp/mnt/data_persist/autox/plugins/autox_wifi.sh",
+      "status": "AVAILABLE",
+      "download_path": "autox_wifi.zip",
+      "sha256": "a72a18bacf2c7154603821bacc40f97d62b1cef005f3e35e22a594d930549d4a",
+      "versions": [
+        {
+          "version": "0.14",
+          "path": "archive/autox_wifi/autox_wifi_v0.14.zip",
+          "sha256": "a72a18bacf2c7154603821bacc40f97d62b1cef005f3e35e22a594d930549d4a",
+          "released_at": "2026-11-26T17:39:08.294Z",
           "notes": ""
         }
       ]
