@@ -1,7 +1,7 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795711782,
+  "updated_epoch": 1795712678,
   "packages": [
     {
       "id": "wifi",
@@ -27,19 +27,6 @@
       "min_cmu_fw": "74.00.324",
       "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_disclaimer.zip",
       "target": "autox_disclaimer.sh",
-      "status": "AVAILABLE"
-    },
-    {
-      "id": "ssh",
-      "title": "Enable SSH Service",
-      "subtitle": "Open port 36000 for access",
-      "author": "AutoX",
-      "category": "tweak",
-      "version": "0.14",
-      "size": "23.8 KB",
-      "min_cmu_fw": "74.00.324",
-      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_ssh.zip",
-      "target": "autox_ssh.sh",
       "status": "AVAILABLE"
     },
     {
@@ -95,5 +82,5 @@
       "status": "AVAILABLE"
     }
   ],
-  "updated_at": "2026-11-25T16:37:04.962Z"
+  "updated_at": "2026-11-26T17:04:38.270Z"
 }
