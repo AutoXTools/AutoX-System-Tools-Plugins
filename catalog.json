@@ -1,21 +1,8 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795712720,
+  "updated_epoch": 1795714247,
   "packages": [
-    {
-      "id": "wifi",
-      "title": "Enable Wi-Fi Service",
-      "subtitle": "Quick press enable / disable, hold to configure",
-      "author": "AutoX",
-      "category": "tweak",
-      "version": "0.13",
-      "size": "69.0 KB",
-      "min_cmu_fw": "74.00.324",
-      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_wifi.zip",
-      "target": "autox_wifi.sh",
-      "status": "AVAILABLE"
-    },
     {
       "id": "aha",
       "title": "Remove Aha Service",
@@ -69,5 +56,5 @@
       "status": "AVAILABLE"
     }
   ],
-  "updated_at": "2026-11-26T17:05:20.390Z"
+  "updated_at": "2026-11-26T17:30:47.641Z"
 }
