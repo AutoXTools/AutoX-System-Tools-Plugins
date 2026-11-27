@@ -1,8 +1,8 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Release-Branch",
-  "updated_at": "2026-11-26T17:39:08.294Z",
-  "updated_epoch": 1795714748,
+  "updated_at": "2026-11-27T17:24:19.531Z",
+  "updated_epoch": 1795800259,
   "packages": [
     {
       "id": "ssh",
@@ -79,15 +79,22 @@
       "subtitle": "Quick press enable / disable, hold to configure",
       "author": "AutoX",
       "category": "core",
-      "version": "0.14",
-      "size": "69.1 KB",
+      "version": "0.16",
+      "size": "73.8 KB",
       "min_cmu_fw": "74.00.324",
       "script_url": "plugins/autox_wifi.sh",
       "target": "/tmp/mnt/data_persist/autox/plugins/autox_wifi.sh",
       "status": "AVAILABLE",
       "download_path": "autox_wifi.zip",
-      "sha256": "a72a18bacf2c7154603821bacc40f97d62b1cef005f3e35e22a594d930549d4a",
+      "sha256": "3f5ac74d3bb9ba82b84f3391618df14c1483eff4a56b79e344996381bae305bc",
       "versions": [
+        {
+          "version": "0.16",
+          "path": "archive/autox_wifi/autox_wifi_v0.16.zip",
+          "sha256": "3f5ac74d3bb9ba82b84f3391618df14c1483eff4a56b79e344996381bae305bc",
+          "released_at": "2026-11-27T17:24:19.531Z",
+          "notes": ""
+        },
         {
           "version": "0.14",
           "path": "archive/autox_wifi/autox_wifi_v0.14.zip",
