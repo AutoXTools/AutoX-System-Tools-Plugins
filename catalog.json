@@ -1,7 +1,7 @@
 {
   "repository": "AutoXTools/AutoX-System-Tools-Plugins",
   "branch": "Prerelease-Branch",
-  "updated_epoch": 1795748223,
+  "updated_epoch": 1795748391,
   "packages": [
     {
       "id": "aha",
@@ -53,6 +53,19 @@
       "min_cmu_fw": "74.00.324",
       "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_nolog.zip",
       "target": "autox_nolog.sh",
+      "status": "AVAILABLE"
+    },
+    {
+      "id": "xm",
+      "title": "Disable SiriusXM Service",
+      "subtitle": "Improved system bootup experience",
+      "author": "AutoX",
+      "category": "tweak",
+      "version": "0.13",
+      "size": "21.6 KB",
+      "min_cmu_fw": "74.00.324",
+      "script_url": "https://raw.githubusercontent.com/AutoXTools/AutoX-System-Tools-Plugins/Prerelease-Branch/autox_xm.zip",
+      "target": "autox_xm.sh",
       "status": "AVAILABLE"
     }
   ],
